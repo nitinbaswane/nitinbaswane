@@ -1,12 +1,12 @@
 # 💫 About Me:
 ### 🔭 I’m currently working on<br>
--A full-stack web application using Angular (frontend) and Spring Boot (backend)<br> -Building REST APIs with authentication and role-based access<br> -Improving application performance and code quality<br> 
+- A full-stack web application using Angular (frontend) and Spring Boot (backend)<br> - Building REST APIs with authentication and role-based access<br> - Improving application performance and code quality<br> 
 ### 👯 I’m looking to collaborate on<br>
--Open-source Java or Angular projects<br> -Full-stack web applications<br> -Beginner-friendly open-source contributions<br> 
+- Open-source Java or Angular projects<br> - Full-stack web applications<br> - Beginner-friendly open-source contributions<br> 
 ### 🤝 I’m looking for help with<br>
--System design for scalable applications<br> -Advanced Angular performance optimization<br> -Cloud deployment (AWS / Docker / CI-CD)<br>
+- System design for scalable applications<br> - Advanced Angular performance optimization<br> - Cloud deployment (AWS / Docker / CI-CD)<br>
 ### 🌱 I’m currently learning<br>
--Advanced Angular concepts<br> -Spring Boot microservices<br> -Database optimization & REST API best practices<br>
+- Advanced Angular concepts<br> - Spring Boot microservices<br> - Database optimization & REST API best practices<br>
 ### 💬 Ask me about<br>
 - Java, Spring Boot, REST APIs<br>Angular, TypeScript<br>SQL & backend fundamentals<br>
 ### ⚡ Fun fact<br>
